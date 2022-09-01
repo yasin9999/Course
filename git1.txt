@@ -1,2 +1,11 @@
 hi git again
 welcome
+
+
+                <article className="font-weight-bold mt-5" style={{marginLeft:'55px',lineHeight:'33px'}} id='react-facts'>
+                <li>Was first released in 2013</li>
+                <li>Was originally created by Jordan Walke</li>
+                <li>Has well over 100k stars on GitHub</li>
+                <li>Is maintained by Facebook</li>
+                <li>Powers thousands of enterprise apps, including mobile apps</li>
+                </article>
