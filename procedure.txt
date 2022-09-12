@@ -1,0 +1,32 @@
+1/ create 'repos' directory
+2/ create 'index.html' file
+3/ commit 'index.html'
+4/ create 'course' repository
+5/ push 'index.html' to 'course'
+---------------------------------------------------------------------------------------------------------------------------
+1/ create 'scroll' branch
+2/ delete 'scroll' branch
+3/ create 'Dev-Feature' branch
+4/ rename it to 'Development'
+5/ create index.html file
+6/ commit it
+7/ return to 'master' branch
+8/ merge with 'Development'
+9/ delete 'Development' branch
+10/ create 'Branching' repository
+10/ push to Branching
+11/ create 'scroll' branch
+12/ create 'main.js'
+13/ commit it
+14/ return to 'master' branch
+15/ delete 'scroll' branch
+16/ recreate 'scroll' branch
+17/ create 'main.css' 
+18/ commit it
+19/ return to 'master' branch
+20/ delete 'scroll' branch
+21/ switch to 'scroll' branch
+22/ push it
+23/ go to github and create a pull request
+24/ merge pull request
+25/ delete branch 
